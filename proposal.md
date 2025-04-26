@@ -2,8 +2,8 @@
 
 ## Grupo
 ### Integrantes
-·        Morici, Matías – 52171
-·        Rufine, Tadeo – 52064
+·        Morici, Matías – 52171 <br>
+<br>·        Rufine, Tadeo – 52064 <br>
 ·        Dominguez, Dolores – 52072
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
